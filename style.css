@@ -111,8 +111,8 @@ a:hover {
 .card:hover {
   transform: translateY(-8px);
   box-shadow:
-    0 0 0 1px rgba(123, 108, 255, 0.3),
-    0 20px 40px rgba(255, 95, 162, 0.15);
+    0 0 0 1px rgba(134, 0, 0, 0.493),
+    0 20px 40px rgba(255, 145, 0, 0.15);
 }
 
 .card img {
